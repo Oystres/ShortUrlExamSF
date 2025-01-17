@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d100db8-987d-43b6-807c-7d3c3a34bd05" name="Changes" comment="Edit getOriginalUrl method" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;amasovich&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Oystres/TaskSF_Url-shortener-master.git&quot;,
+    &quot;accountId&quot;: &quot;9674184c-1b98-4d8f-8bf3-16389e86ed0d&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\Владимир\.m2\repository" />
+        <option name="userSettingsFile" value="C:\Users\Владимир\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2qwUkQCnFWMmEfUPi4GIrYq4N07" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ShortLinkConsoleApp.executor": "Run",
+    "JUnit.ShortLinkServiceTest.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HONOR/Downloads/TaskSF_Url-shortener-master/TaskSF_Url-shortener-master",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Владимир\IdeaProjects\url-shortener\src\test\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.zommer.urlshortener" />
+      <recent name="com.beryoza.urlshortener" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d100db8-987d-43b6-807c-7d3c3a34bd05" name="Changes" comment="" />
+      <created>1735573276254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735573276254</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add Maven config (pom.xml), .gitignore, and base project structure">
+      <option name="closed" value="true" />
+      <created>1735574736633</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735574736633</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add Maven config (pom.xml), .gitignore, and base project structure(2)">
+      <option name="closed" value="true" />
+      <created>1735575639890</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735575639890</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add Maven config (pom.xml), .gitignore, and base project structure(2)">
+      <option name="closed" value="true" />
+      <created>1735575714533</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735575714533</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add url https://github.com/amasovich/url-shortener">
+      <option name="closed" value="true" />
+      <created>1735575842640</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735575842640</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Push">
+      <option name="closed" value="true" />
+      <created>1735576131594</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735576131594</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Create README.MD">
+      <option name="closed" value="true" />
+      <created>1735577554405</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735577554405</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Adding a prepared class User">
+      <option name="closed" value="true" />
+      <created>1735581473532</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735581473532</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adding a prepared class ShortLink">
+      <option name="closed" value="true" />
+      <created>1735582084857</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735582084857</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Adding a prepared class UserRepository">
+      <option name="closed" value="true" />
+      <created>1735582188065</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1735582188065</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Adding a prepared class ShortLinkRepository">
+      <option name="closed" value="true" />
+      <created>1735582280910</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1735582280910</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Adding a prepared class UserService">
+      <option name="closed" value="true" />
+      <created>1735582814048</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1735582814048</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Adding a prepared class UserService &amp; ShortLinkService v3">
+      <option name="closed" value="true" />
+      <created>1735583548709</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1735583548709</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Create Cohfig class and properties for application. Change createShortLink method">
+      <option name="closed" value="true" />
+      <created>1735584637368</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1735584637368</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add cleanUpExpiredLinks method in ShortLinkService class">
+      <option name="closed" value="true" />
+      <created>1735585163697</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1735585163697</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Edit cleanUpExpiredLink method (limit check)">
+      <option name="closed" value="true" />
+      <created>1735586087468</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1735586087468</updated>
+    </task>
+    <task id="LOCAL-00016" summary="UPD getOriginalUrl method / Create openInBrowser method in ShortLinkService class">
+      <option name="closed" value="true" />
+      <created>1735586555714</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1735586555714</updated>
+    </task>
+    <task id="LOCAL-00017" summary="UPD getOriginalUrl method / Create notifyUser method in ShortLinkService class">
+      <option name="closed" value="true" />
+      <created>1735587056240</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1735587056240</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Create editRedirectLimit method in ShortLinkService class.">
+      <option name="closed" value="true" />
+      <created>1735587422776</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1735587422776</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Create deleteShortLink method in ShortLinkService class.">
+      <option name="closed" value="true" />
+      <created>1735587580450</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1735587580450</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Create editExpiryTime method in ShortLinkService class.">
+      <option name="closed" value="true" />
+      <created>1735588216662</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1735588216662</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Test works">
+      <option name="closed" value="true" />
+      <created>1735594521020</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1735594521020</updated>
+    </task>
+    <task id="LOCAL-00022" summary="testExpiryTimeRemovesLink &amp; testUniqueShortLinksForDifferentUsers tests complited">
+      <option name="closed" value="true" />
+      <created>1735622753846</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1735622753846</updated>
+    </task>
+    <task id="LOCAL-00023" summary="All tests passed">
+      <option name="closed" value="true" />
+      <created>1735625081283</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1735625081283</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Create ShortLinkConsoleApp">
+      <option name="closed" value="true" />
+      <created>1735627210729</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1735627210729</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Edite methods and console app">
+      <option name="closed" value="true" />
+      <created>1735631461527</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1735631461527</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Work all methods version!">
+      <option name="closed" value="true" />
+      <created>1735636622087</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1735636622087</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Debugging the code &amp; DOC">
+      <option name="closed" value="true" />
+      <created>1735638767150</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1735638767150</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Edit DOCs code">
+      <option name="closed" value="true" />
+      <created>1735639556185</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1735639556185</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Edit README.md">
+      <option name="closed" value="true" />
+      <created>1735640339486</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1735640339486</updated>
+    </task>
+    <task id="LOCAL-00030" summary="DOvs for main Application">
+      <option name="closed" value="true" />
+      <created>1735640834214</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1735640834214</updated>
+    </task>
+    <task id="LOCAL-00031" summary="DOСs for Tests Application">
+      <option name="closed" value="true" />
+      <created>1735641029873</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1735641029873</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Edit README">
+      <option name="closed" value="true" />
+      <created>1735641238902</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1735641238902</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Work version 2 Application completed">
+      <option name="closed" value="true" />
+      <created>1735641935834</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1735641935834</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Work version 2 Application completed">
+      <option name="closed" value="true" />
+      <created>1735642054605</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1735642054605</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Edit getOriginalUrl method">
+      <option name="closed" value="true" />
+      <created>1735642821788</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1735642821788</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Edit getOriginalUrl method">
+      <option name="closed" value="true" />
+      <created>1735643187681</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1735643187681</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Edit getOriginalUrl method">
+      <option name="closed" value="true" />
+      <created>1735643514747</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1735643514747</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding a prepared class ShortLinkRepository" />
+    <MESSAGE value="Adding a prepared class UserService" />
+    <MESSAGE value="Adding a prepared class UserService &amp; ShortLinkService v3" />
+    <MESSAGE value="Create Cohfig class and properties for application. Change createShortLink method" />
+    <MESSAGE value="Add cleanUpExpiredLinks method in ShortLinkService class" />
+    <MESSAGE value="Edit cleanUpExpiredLink method (limit check)" />
+    <MESSAGE value="UPD getOriginalUrl method / Create openInBrowser method in ShortLinkService class" />
+    <MESSAGE value="UPD getOriginalUrl method / Create notifyUser method in ShortLinkService class" />
+    <MESSAGE value="Create editRedirectLimit method in ShortLinkService class." />
+    <MESSAGE value="Create deleteShortLink method in ShortLinkService class." />
+    <MESSAGE value="Create editExpiryTime method in ShortLinkService class." />
+    <MESSAGE value="Test works" />
+    <MESSAGE value="testExpiryTimeRemovesLink &amp; testUniqueShortLinksForDifferentUsers tests complited" />
+    <MESSAGE value="All tests passed" />
+    <MESSAGE value="Create ShortLinkConsoleApp" />
+    <MESSAGE value="Edite methods and console app" />
+    <MESSAGE value="Work all methods version!" />
+    <MESSAGE value="Debugging the code &amp; DOC" />
+    <MESSAGE value="Edit DOCs code" />
+    <MESSAGE value="Edit README.md" />
+    <MESSAGE value="DOvs for main Application" />
+    <MESSAGE value="DOСs for Tests Application" />
+    <MESSAGE value="Edit README" />
+    <MESSAGE value="Work version 2 Application completed" />
+    <MESSAGE value="Edit getOriginalUrl method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit getOriginalUrl method" />
+  </component>
+</project>
